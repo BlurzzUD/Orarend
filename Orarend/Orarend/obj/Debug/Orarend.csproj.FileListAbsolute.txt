@@ -1,0 +1,7 @@
+C:\Users\DEV\source\repos\Orarend\Orarend\bin\Debug\Orarend.exe.config
+C:\Users\DEV\source\repos\Orarend\Orarend\bin\Debug\Orarend.exe
+C:\Users\DEV\source\repos\Orarend\Orarend\bin\Debug\Orarend.pdb
+C:\Users\DEV\source\repos\Orarend\Orarend\obj\Debug\Orarend.csproj.AssemblyReference.cache
+C:\Users\DEV\source\repos\Orarend\Orarend\obj\Debug\Orarend.csproj.CoreCompileInputs.cache
+C:\Users\DEV\source\repos\Orarend\Orarend\obj\Debug\Orarend.exe
+C:\Users\DEV\source\repos\Orarend\Orarend\obj\Debug\Orarend.pdb
