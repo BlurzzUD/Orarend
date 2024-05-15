@@ -89,7 +89,6 @@ class Program
         Console.ReadKey();
     }
 
-    // Helper function to capitalize the first letter
     static string CapitalizeFirstLetter(string input)
     {
         if (string.IsNullOrWhiteSpace(input)) return input;
